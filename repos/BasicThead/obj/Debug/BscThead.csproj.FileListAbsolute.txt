@@ -1,0 +1,11 @@
+C:\Users\deguzman.274522\Source\Repos\BasicThead\bin\Debug\BscThead.exe.config
+C:\Users\deguzman.274522\Source\Repos\BasicThead\bin\Debug\BscThead.exe
+C:\Users\deguzman.274522\Source\Repos\BasicThead\bin\Debug\BscThead.pdb
+C:\Users\deguzman.274522\Source\Repos\BasicThead\obj\Debug\BscThead.csproj.AssemblyReference.cache
+C:\Users\deguzman.274522\Source\Repos\BasicThead\obj\Debug\BscThead.csproj.SuggestedBindingRedirects.cache
+C:\Users\deguzman.274522\Source\Repos\BasicThead\obj\Debug\BscThead.Form1.resources
+C:\Users\deguzman.274522\Source\Repos\BasicThead\obj\Debug\BscThead.Properties.Resources.resources
+C:\Users\deguzman.274522\Source\Repos\BasicThead\obj\Debug\BscThead.csproj.GenerateResource.cache
+C:\Users\deguzman.274522\Source\Repos\BasicThead\obj\Debug\BscThead.csproj.CoreCompileInputs.cache
+C:\Users\deguzman.274522\Source\Repos\BasicThead\obj\Debug\BscThead.exe
+C:\Users\deguzman.274522\Source\Repos\BasicThead\obj\Debug\BscThead.pdb
